@@ -1,8 +1,13 @@
-//mixins
-@import "core/mixins";
 
 @import "vendor/bourbon/bourbon";
 @import "vendor/neat/neat";
 @import "vendor/grid/grid-import";
+
+//settings
+@import "core/settings";
+
+//mixins
+@import "core/mixins";
+
 
 @import "pages/landing_page";
