@@ -1,0 +1,24 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+body {
+  margin: 0; }
+
+.body-wrapper {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background: url('images/floor.png');
+  background-size: cover;
+  background-position: center center; }
+
+header {
+  position: absolute;
+  width: 100%; }
